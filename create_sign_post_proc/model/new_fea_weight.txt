@@ -1,0 +1,10 @@
+S{cmatch-ideaid-query}:{223-13181780074-啊}	-0.0332854
+S{cmatch-wmatch-userid}:{223-63-3719609}	0.00589582
+S{ideaid-QueryBigram}:{13248478506-好吃的}	-0.00265407
+S{ideaid-QueryUnigram}:{11076564262-苏州}	-0.0574304
+S{query-title}:{小本创业网-致富加盟，2016创业商机，加盟%2E%2E}	-0.557686
+S{pid-userid}:{14-20124948}	-0.0539823
+S{cmatch-wmatch-userid}:{222-63-21488553}	-0.00232803
+S{QueryBigram}:{雪铁龙c3}	0.0000001630
+S{QueryUnigram}:{二十七}	0.0760074
+S{wmatch-userid}:{31-18889528}	-0.0543666
